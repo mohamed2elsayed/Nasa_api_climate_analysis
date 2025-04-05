@@ -1,6 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Climate Data Analysis</title>
 </head>
 <body>
     <h1>🔥 23 Years. 7 Regions. 1 Climate Warning.</h1>
@@ -66,10 +69,28 @@
     </ul>
     
     <h2>💬 Which of these regions shocks you most? How can your sector prepare?</h2>
-    
+
     <footer>
         <p>#ClimateData #NASA #ExtremeHeat #OpenScience #JupyterNotebooks #ClimateRisk #Sustainability #PythonForClimate #DataScience #AIForGood #RenewableEnergy #AgroTech #ClimateAction</p>
         <p>📩 Want access to the full notebook or a walkthrough video? I’d be happy to share — just reach out!</p>
     </footer>
+
+    <h1 id="analysis-the-effects-of-solar-wind-on-the-magnetosphere">Analysis: The Effects of Solar Wind on the Magnetosphere</h1>
+
+    <p>
+        This project evaluates large datasets to identify trends and develop actionable insights related to the effects of solar wind on the Earth's magnetosphere.
+    </p>
+
+    <h2>Key Activities</h2>
+
+    <ul>
+        <li>Search and build 54 datasets for 27 years related to scientific events on the Earth’s Magnetosphere.</li>
+        <li>Build subplots for all 54 datasets and study them to find relationships.</li>
+        <li>Assemble visual representations of data with charts, graphs, or infographics.</li>
+        <li>Calculate the radius of the magnetopause for all 54 datasets and study these events.</li>
+        <li>Build a dataset including 27 years of scientific events and group the top events that happened each year based on the lowest radius magnetopause.</li>
+        <li>Apply time series prediction to forecast data from 2023 to 2030 to complete the 25 solar cycles.</li>
+        <li>Make a report to show the powerful events that occurred in the 23rd, 24th, and 25th solar cycles by month.</li>
+    </ul>
 </body>
 </html>
