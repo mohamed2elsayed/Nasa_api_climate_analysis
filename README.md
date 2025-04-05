@@ -1,9 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Climate Data Analysis</title>
 </head>
 <body>
     <h1>🔥 23 Years. 7 Regions. 1 Climate Warning.</h1>
